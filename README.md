@@ -1,6 +1,6 @@
 #  123.hp.com/setup
 
-[![123.hp.com/setup](gett-started.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![123.hp.com/setup](gett-started.png)](https://hp.printredir.com)
 
 HP printers offer world-class quality services to the house person, personal or even for day by day customers in offices. It can be quickly set up and occupies a small space with a compact design. Get the simple steps of the Hp printer setup through [123.hp.com/setup](https://123hpcomsetupp.github.io/) . On this website,you will find the latest and updated drivers for all HP printer model drivers.
 
